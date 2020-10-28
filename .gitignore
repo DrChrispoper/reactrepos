@@ -1,0 +1,5 @@
+node_modules/
+public/
+src/etc/.env
+
+.vscode/settings.json

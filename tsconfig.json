@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "lib": ["ES2016", "dom", "ES2019"],
+    "sourceMap": true,
+    "module": "commonjs",
+    "jsx": "react",
+    "target": "ES2016",
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "allowJs": true,
+    "typeRoots": ["./node_modules/@types/"],
+    "baseUrl": ".",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["./src/**/*.ts", "./src/**/*.tsx"],
+  "exclude": ["node_modules", "public"]
+}
