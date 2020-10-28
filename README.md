@@ -14,5 +14,5 @@ This repository contains the some code to display React Repositories.
 
 ## Generate/Update GraphQL Types
 
-Use `npx graphql-codegen` and the types will be generated in `src/generated`  directory. Server must be running.
+Use `npm run generate` and the types will be generated in `src/generated`  directory. Server must be running.
 Config file is `codegen.yaml`.
