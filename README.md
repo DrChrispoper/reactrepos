@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains the some code to display React Repositories.
+This repository contains some code to display React Repositories.
 
 ## Development
 
