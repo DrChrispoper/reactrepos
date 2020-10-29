@@ -9,8 +9,9 @@ This repository contains the some code to display React Repositories.
 1. Ensure you have [npm](https://npmjs.com) installed.
 2. Clone this repository.
 3. Install dependencies: `npm install`.
-4. Start the repository: `npm start` (for local development).
-5. Go to http://localhost:8080.
+4. Using the `src/etc/.env.example` create a `.env` file in the same folder with your personal github access token.
+5. Start the repository: `npm start` (for local development).
+6. Go to http://localhost:8080.
 
 ## Generate/Update GraphQL Types
 
